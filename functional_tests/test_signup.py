@@ -16,5 +16,28 @@ class CreationUserTest(LiveServerTestCase):
 		self.browser.get(self.live_server_url)
 
 		#He notices the web title and header that mentions the website name
-		self.assertIn('Pur Beurre', self.browser.title)
-		self.fail("End of test")
+		self.assertIn('Sign Up', self.browser.title)
+        
+        # He is proposed to enter his username :
+        username = self.browser.find_elements_by_name('username')
+        self.assertEqual(
+        	username.get_attribute('placeholder'),
+        	"Nom d'utilisateur")
+        # He types in his name : 'Georges' :
+        username.send_keys('Georges')
+
+        # Then his email adresse:
+        email = self.browser.find_elements_by_name('email')
+        self.assertEqual(
+        	email.get_attribute('placeholder'),
+        	"Email")
+        # He types in his email adress :
+        email.send_keys('georgygeorges@email.com')
+
+        # Finally, he has to enter a password to complete his signing up :
+        password = self.browser.find_element_by_name('password')
+        self.assertEqual(
+        	password.get_attribute('placeholder'),
+        	"Mot de passe")
+        # He types in his password :
+        password.send_keys('Georges123')
