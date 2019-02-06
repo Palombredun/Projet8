@@ -13,7 +13,7 @@ class NewVisitorTest(LiveServerTestCase):
     def test_can_access_home_page(self):
         # Edith has heard about a cool new online to-do app. She goes
         # to check out its homepage
-        self.browser.get(self.live_server_url)
+        self.browser.get("http://purebutter.herokuapp.com/")
 
         # She notices the page title and header mention to-do lists
         self.assertIn('Pur Beurre', self.browser.title)
