@@ -9,6 +9,7 @@ verify_ssl = true
 gunicorn = "*"
 django-heroku = "*"
 selenium = "*"
+django = "*"
 
 [requires]
 python_version = "3.6"
