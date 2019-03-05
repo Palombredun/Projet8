@@ -2,8 +2,10 @@ from django.test import TestCase
 from django.urls import resolve
 from django.http import HttpRequest
 
-from signup.views import signup
+from django.core.exceptions import ValidationError
 
+from signup.models import User
+from signup.views import signup
 
 class SignUpTest(TestCase):
     def test_uses_signup_page(self):
