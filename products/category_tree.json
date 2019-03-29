@@ -1,0 +1,380 @@
+{
+    "0": {
+        "aliments-d-origine-vegetale": [
+            "aliments-et-boissons-a-base-de-vegetaux",
+            "aliments-a-base-de-plantes-en-conserve",
+            "cereales-et-pommes-de-terre",
+            "cafes",
+            "produits-de-coriandre",
+            "plantes-condimentaires",
+            "aliments-a-base-de-plantes-sechees",
+            "produits-de-sureau-noir",
+            "fenouils",
+            "produits-de-le-fenugrec",
+            "flocons",
+            "farines",
+            "aliments-d-origine-vegetale-lyophilisees",
+            "aliments-a-base-de-plantes-frais",
+            "fritures-vegetales",
+            "aliments-a-base-de-plantes-surgeles",
+            "aliments-a-base-de-fruits-et-de-legumes",
+            "produits-de-le-cerfeuil-commun",
+            "legumineuses-et-derives",
+            "substituts-de-viande",
+            "champignons-et-produits-derives",
+            "substituts-du-fromage",
+            "produits-de-le-muscadier",
+            "fruits-a-coques-et-derives",
+            "produits-de-l-olivier",
+            "cremes-vegetales",
+            "plats-prepares-d-origine-vegetale",
+            "pickles-d-origine-vegetale",
+            "pates-a-tartiner-vegetales",
+            "plantes-en-pot",
+            "boissons-vegetales-en-poudre",
+            "grains-soufflees",
+            "produits-de-la-plante-de-courge",
+            "algues-et-derives",
+            "graines",
+            "epices",
+            "pousses",
+            "amidons",
+            "stevia-et-derives",
+            "graines-de-tournesol-et-derives",
+            "bouillons-de-legumes",
+            "matieres-grasses-vegetales"
+        ]
+    },
+    "1": {
+        "snacks": [
+            "snacks-sales",
+            "snacks-sucres"
+        ]
+    },
+    "2": {
+        "boissons": [
+            "boissons-alcoolisees",
+            "boissons-edulcorees",
+            "boissons-gazeuses",
+            "boissons-au-cafe",
+            "boissons-lactees",
+            "boissons-lyophilisees",
+            "boissons-energisantes",
+            "fermented-drinks",
+            "sirops-aromatises",
+            "tisanes-infusees",
+            "boissons-chaudes",
+            "thes-glaces",
+            "boissons-instantanees",
+            "mixed-drinks",
+            "boissons-sans-alcool",
+            "boissons-a-base-de-vegetaux",
+            "boissons-avec-sucre-ajoute",
+            "boissons-au-the",
+            "boissons-sans-sucre-ajoute",
+            "eaux",
+            "citronnades"
+        ]
+    },
+    "3": {
+        "snacks-sucres": [
+            "snacks",
+            "barres",
+            "biscuits",
+            "chocolats",
+            "confiseries",
+            "popcorn",
+            "beignets-sucres",
+            "viennoiseries"
+        ]
+    },
+    "4": {
+        "produits-laitiers": [
+            "babeurres",
+            "laits-condenses",
+            "cremes",
+            "desserts-lactes",
+            "boissons-lactees",
+            "laits-concentres",
+            "produits-laitiers-fermentes",
+            "milkfat",
+            "laits",
+            "lactoserum-en-poudre"
+        ]
+    },
+    "5": {
+        "plats prepares": [
+            "acras",
+            "aligots",
+            "banh-bao",
+            "poissons-panes",
+            "plats-prepares-en-conserve",
+            "cassoulets",
+            "acras-de-morue",
+            "plats-prepares-deshydrates",
+            "endives-au-jambon",
+            "plats-prepares-frais",
+            "plats-prepares-surgeles",
+            "gratins",
+            "plats-prepares-a-faible-teneur-en-matieres-grasses",
+            "substituts-de-repas",
+            "plats-prepares-au-poisson",
+            "plats-prepares-a-la-viande",
+            "plats-prepares-a-rechauffer-au-micro-ondes",
+            "nems",
+            "plats-a-base-de-pates",
+            "pizzas-tartes-salees-et-quiches",
+            "plats-prepares-d-origine-vegetale",
+            "plats-prepares-aux-noix-de-saint-jacques",
+            "lentilles-preparees",
+            "salades-composees",
+            "legumes-prepares",
+            "plats-prepares-feuilletes",
+            "plats-a-base-de-quinoa",
+            "plats-prepares-refrigeres",
+            "plats-a-base-de-riz",
+            "samoussas",
+            "choucroutes",
+            "plats-a-base-de-semoule",
+            "brochettes",
+            "soupes",
+            "omelettes-de-pommes-de-terre",
+            "rouleaux-de-printemps",
+            "entrees",
+            "feuilles-de-vigne-farcies",
+            "sushi-and-maki",
+            "taboules",
+            "tajine",
+            "truffades",
+            "cereales-preparees",
+            "cordons-bleus",
+            "crepes-au-fromage",
+            "crepes-au-jambon",
+            "fondues",
+            "poelees",
+            "purees",
+            "quenelles"
+        ]
+    },
+    "6": {
+        "boissons-sans-alcool": [
+            "boissons",
+            "bieres-sans-alcool",
+            "non-alcoholic-wheat-beers",
+            "vins-sans-alcool"
+        ]
+    },
+    "7": {
+        "viandes": [
+            "boeuf",
+            "viandes-sechees",
+            "dromadaire",
+            "european-moose-meat",
+            "viandes-fraiches",
+            "grenouille",
+            "viandes-surgelees",
+            "insectes",
+            "viandes-d-agneau",
+            "menus-viandes-pour-bebe",
+            "preparations-de-viande",
+            "autruche",
+            "porc",
+            "volailles",
+            "charcuteries",
+            "viande-de-lapin",
+            "viande-fraiche-de-renne",
+            "roe-deer-meat",
+            "escargots",
+            "steaks",
+            "viandes-de-veau",
+            "wapiti-elk-meat",
+            "zebre"
+        ]
+    },
+    "8": {
+        "aliments-a-base-de-fruits-et-legumes": [
+            "aliments-d-origine-vegetale",
+            "aliments-et-boissons-a-base-de-vegetaux",
+            "fruits-et-produits-derives",
+            "soupes-de-legumes",
+            "legumes-et-derives"
+        ]
+    },
+    "9": {
+        "produits-fermentes": [
+            "fermented-drinks",
+            "produits-laitiers-fermentes"
+        ]
+    },
+    "10": {
+        "produits-laitiers-fermentes": [
+            "produits-fermentes",
+            "produits-laitiers",
+            "fromages",
+            "boissons-lactees-fermentees",
+            "cremes-fraiches",
+            "tvorog",
+            "yaourts"
+        ]
+    },
+    "11": {
+        "cereales-et-pomme-de-terre": [
+            "aliments-d-origine-vegetale",
+            "aliments-et-boissons-a-base-de-vegetaux",
+            "pains",
+            "pommes-de-terre-en-conserve",
+            "cereales-et-derives",
+            "pommes-de-terre-surgeles",
+            "gnocchi",
+            "purees-en-flocons",
+            "purees-de-pommes-de-terre",
+            "chips-de-pommes-de-terre",
+            "pommes-de-terre"
+        ]
+    },
+    "12": {
+        "produits-a-tartiner": [
+            "chutneys-d-oignons",
+            "pates-a-tartiner-vegetales",
+            "produits-a-tartiner-sales",
+            "matieres-grasses-a-tartiner",
+            "produits-a-tartiner-sucres",
+            "condiments-a-tartiner"
+        ]
+    },
+    "13": {
+        "biscuits-et-gateaux": [
+            "biscuits",
+            "gateaux",
+            "pains-d-epices",
+            "patisseries"
+        ]
+    },
+    "14": {
+        "petits-dejeuners": [
+            "cereales-pour-petit-dejeuner",
+            "chocolats-en-poudre",
+            "produits-a-tartiner-sucres"
+        ]
+    },
+    "15": {
+        "fromages": [
+            "produits-laitiers-fermentes",
+            "produits-fermentes",
+            "produits-laitiers",
+            "fromages-d-abbaye",
+            "fromages-artisanaux",
+            "fromages-a-pate-persillee",
+            "fromages-saumures",
+            "fromages-au-lait-de-bufflonne",
+            "fromages-en-conserve",
+            "fromages-a-tartiner",
+            "fromages-de-suisse",
+            "fromages-du-royaume-uni",
+            "fromages-des-pays-bas",
+            "fromages-aux-noix",
+            "fromages-a-pate-pressee-cuite",
+            "fromages-de-vache",
+            "fromages-a-pate-fraiche",
+            "fromages-double-creme",
+            "fromages-de-france",
+            "fromages-de-chevre",
+            "fromages-rapes",
+            "fromages-de-grece",
+            "fromages-a-pate-pressee-demi-cuite",
+            "fromages-industriels",
+            "fromages-italiens",
+            "fromages-labellises",
+            "fromages-lithuaniens",
+            "fromages-fondus",
+            "fromages-mexicains",
+            "fromages-de-montagne",
+            "fromages-pasteurises",
+            "fromages-polonais",
+            "fromages-portugais",
+            "fromages-a-pate-fondue",
+            "fromages-de-brebis",
+            "fromages-en-tranches",
+            "fromages-de-slovaquie",
+            "fromages-slovenes",
+            "fromages-fumes",
+            "fromages-a-pate-molle-a-croute-naturelle",
+            "fromages-a-pate-molle-a-croute-fleurie",
+            "fromages-a-pate-molle-a-croute-lavee",
+            "fromages-espagnols",
+            "fromages-a-pate-filee",
+            "string-cheeses",
+            "fromages-suedois",
+            "fromages-au-lait-thermise",
+            "fromages-a-pate-pressee-non-cuite",
+            "fromages-au-lait-cru",
+            "fromages-ail-et-fines-herbes",
+            "fromages-pour-enfants",
+            "raclettes"
+        ]
+    },
+    "16": {
+        "charcuteries": [
+            "viandes",
+            "coppa",
+            "jambons",
+            "charcuteries-a-teneur-reduite-en-sel",
+            "rillettes",
+            "saucisses",
+            "mousses-salees",
+            "andouilles",
+            "boudins",
+            "charcuteries-a-cuire",
+            "charcuteries-cuites",
+            "charcuteries-diverses",
+            "saucissons"
+        ]
+    },
+    "17": {
+        "epicerie": [
+            "bouillons",
+            "condiments",
+            "sauces"
+        ]
+    },
+    "18": {
+        "desserts": [
+            "foret-noires",
+            "charlottes",
+            "desserts-au-chocolat",
+            "clafoutis",
+            "desserts-au-cafe",
+            "compotes",
+            "crumbles",
+            "desserts-lactes",
+            "desserts-glaces",
+            "fruits-au-sirop",
+            "liegeois",
+            "macarons",
+            "desserts-vegetaliens",
+            "puddings",
+            "mousses-sucrees",
+            "vacherins",
+            "bavarois-aux-fruits",
+            "buches-patissieres"
+        ]
+    },
+    "19": {
+        "fruits-et-produits-derives": [
+            "aliments-a-base-de-fruits-et-de-legumes",
+            "aliments-d-origine-vegetale",
+            "aliments-et-boissons-a-base-de-vegetaux",
+            "fruits-confits",
+            "fruits-en-conserve",
+            "compotes",
+            "fruits-secs",
+            "fruits-surgeles",
+            "chutneys-de-fruit",
+            "confitures-de-fruits",
+            "pates-de-fruits",
+            "salades-de-fruits",
+            "fruits",
+            "coulis-de-fruits"
+        ]
+    }
+}

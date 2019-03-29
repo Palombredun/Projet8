@@ -2,13 +2,9 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth import login, authenticate
 from django.shortcuts import render, redirect
 
-
 from signup.forms import SignUpForm
-from core import views as core_views
 
-@login_required
-def home(request):
-    return render(request, 'home.html')
+
 
 def signup(request):
     if request.method == 'POST':

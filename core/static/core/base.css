@@ -145,13 +145,16 @@ section {
 
 
 @media (min-width: 992px) {
-  /*
+  #mainNav {
+    border-color: transparent;
+    background-color: transparent;
+  }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
     color: #fff;
-  }*/
+  }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 1rem;
   }
@@ -180,8 +183,8 @@ section {
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
     color: #c45525;
-  }
-}*/
+  }*/
+}
 
 
 
