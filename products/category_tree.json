@@ -47,6 +47,7 @@
     },
     "1": {
         "snacks": [
+            "popcorn",
             "snacks-sales",
             "snacks-sucres"
         ]
@@ -60,7 +61,7 @@
             "boissons-lactees",
             "boissons-lyophilisees",
             "boissons-energisantes",
-            "fermented-drinks",
+            "boissons-fermentees",
             "sirops-aromatises",
             "tisanes-infusees",
             "boissons-chaudes",
@@ -83,7 +84,7 @@
             "biscuits",
             "chocolats",
             "confiseries",
-            "popcorn",
+            "popcorn-sucre",
             "beignets-sucres",
             "viennoiseries"
         ]
@@ -106,11 +107,9 @@
         "plats prepares": [
             "acras",
             "aligots",
-            "banh-bao",
-            "poissons-panes",
+            "banh-bao-pain-brioche-farci",
             "plats-prepares-en-conserve",
             "cassoulets",
-            "acras-de-morue",
             "plats-prepares-deshydrates",
             "endives-au-jambon",
             "plats-prepares-frais",
@@ -142,12 +141,11 @@
             "rouleaux-de-printemps",
             "entrees",
             "feuilles-de-vigne-farcies",
-            "sushi-and-maki",
+            "sushis-et-makis",
             "taboules",
             "tajine",
             "truffades",
             "cereales-preparees",
-            "cordons-bleus",
             "crepes-au-fromage",
             "crepes-au-jambon",
             "fondues",
@@ -202,7 +200,7 @@
     },
     "9": {
         "produits-fermentes": [
-            "fermented-drinks",
+            "boissons-fermentees",
             "produits-laitiers-fermentes"
         ]
     },
@@ -316,9 +314,19 @@
     "16": {
         "charcuteries": [
             "viandes",
+            "terrines-de-bison",
+            "terrines-de-boudin",
+            "terrines-de-sanglier",
             "coppa",
+            "terrines-de-poulet",
+            "terrines-de-campagne",
+            "terrines-de-canard",
             "jambons",
+            "terrines-de-foie",
+            "terrines-de-faisan",
+            "terrines-de-volailles",
             "charcuteries-a-teneur-reduite-en-sel",
+            "terrines-de-lapin",
             "rillettes",
             "saucisses",
             "mousses-salees",
@@ -327,7 +335,9 @@
             "charcuteries-a-cuire",
             "charcuteries-cuites",
             "charcuteries-diverses",
-            "saucissons"
+            "saucissons",
+            "terrines-de-cerf",
+            "terrines-de-chevreuil"
         ]
     },
     "17": {
