@@ -26,29 +26,24 @@ categories = [
     'fruits-et-produits-derives'
     ]
 
-index = 0
-category_tree = {}
-for categorie in categories:
-    # for each category, get the page containing its subcategories
-    if index not in category_tree.keys():
-        category_tree[index] = {categorie: []}
-
-    url = base_url + categorie
+id_cat = 0
+id_sub = 0
+category_tree = []
+for category in categories:
+    url = base_url + category
     req = requests.get(url)
     soup = BeautifulSoup(req.content, 'html.parser')
-    croutons = soup.find_all(class_='tag well_known')
-    croutons = list(croutons)
-    # extract subcategories
-    for crouton in croutons:
-        crouton = str(crouton)
-        crouton = crouton.split(' ')
-        for crouty in crouton:
-            if 'href' in crouty:
-                crouton = crouty
-                break
-        crouton = crouton.split('"')[1]
-        crouton = crouton.replace('/categorie/', '')
-        category_tree[index][categorie].append(crouton)
-    index += 1
+    croutons = soup.find_all(class_="tag_well_known")
+
+    for link in soup.findAll('a', {'class': 'tag well_known'}):
+        try:
+            category_tree.append({'id_category': id_cat, 
+                'category_name': category, 
+                'id_subcategory': id_sub, 
+                'subcategory_name': str(link['href'].replace("/categorie/", ""))})
+            id_sub += 1
+        except KeyError:
+            pass
+    id_cat += 1
 with open('category_tree.json', 'w') as f:
     json.dump(category_tree, f, indent=4)

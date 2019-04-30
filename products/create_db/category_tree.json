@@ -1,1790 +1,1856 @@
 [
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 0,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "aliments-et-boissons-a-base-de-vegetaux"
+        "subcategory_name": "aliments-et-boissons-a-base-de-vegetaux"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 1,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "aliments-a-base-de-plantes-en-conserve"
+        "subcategory_name": "aliments-a-base-de-plantes-en-conserve"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 2,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "cereales-et-pommes-de-terre"
+        "subcategory_name": "cereales-et-pommes-de-terre"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 3,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "cafes"
+        "subcategory_name": "cafes"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 4,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "produits-de-coriandre"
+        "subcategory_name": "produits-de-coriandre"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 5,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "plantes-condimentaires"
+        "subcategory_name": "plantes-condimentaires"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 6,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "aliments-a-base-de-plantes-sechees"
+        "subcategory_name": "aliments-a-base-de-plantes-sechees"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 7,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "produits-de-sureau-noir"
+        "subcategory_name": "produits-de-sureau-noir"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 8,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "fenouils"
+        "subcategory_name": "fenouils"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 9,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "produits-de-le-fenugrec"
+        "subcategory_name": "produits-de-le-fenugrec"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 10,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "flocons"
+        "subcategory_name": "flocons"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 11,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "farines"
+        "subcategory_name": "farines"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 12,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "aliments-d-origine-vegetale-lyophilisees"
+        "subcategory_name": "aliments-d-origine-vegetale-lyophilisees"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 13,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "aliments-a-base-de-plantes-frais"
+        "subcategory_name": "aliments-a-base-de-plantes-frais"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 14,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "fritures-vegetales"
+        "subcategory_name": "fritures-vegetales"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 15,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "aliments-a-base-de-plantes-surgeles"
+        "subcategory_name": "aliments-a-base-de-plantes-surgeles"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 16,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "aliments-a-base-de-fruits-et-de-legumes"
+        "subcategory_name": "aliments-a-base-de-fruits-et-de-legumes"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 17,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "produits-de-le-cerfeuil-commun"
+        "subcategory_name": "produits-de-le-cerfeuil-commun"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 18,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "legumineuses-et-derives"
+        "subcategory_name": "legumineuses-et-derives"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 19,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "substituts-de-viande"
+        "subcategory_name": "substituts-de-viande"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 20,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "champignons-et-produits-derives"
+        "subcategory_name": "champignons-et-produits-derives"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 21,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "substituts-du-fromage"
+        "subcategory_name": "substituts-du-fromage"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 22,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "produits-de-le-muscadier"
+        "subcategory_name": "produits-de-le-muscadier"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 23,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "fruits-a-coques-et-derives"
+        "subcategory_name": "fruits-a-coques-et-derives"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 24,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "produits-de-l-olivier"
+        "subcategory_name": "produits-de-l-olivier"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 25,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "cremes-vegetales"
+        "subcategory_name": "cremes-vegetales"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 26,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "plats-prepares-d-origine-vegetale"
+        "subcategory_name": "plats-prepares-d-origine-vegetale"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 27,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "pickles-d-origine-vegetale"
+        "subcategory_name": "pickles-d-origine-vegetale"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 28,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "pates-a-tartiner-vegetales"
+        "subcategory_name": "pates-a-tartiner-vegetales"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 29,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "plantes-en-pot"
+        "subcategory_name": "plantes-en-pot"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 30,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "boissons-vegetales-en-poudre"
+        "subcategory_name": "boissons-vegetales-en-poudre"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 31,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "grains-soufflees"
+        "subcategory_name": "grains-soufflees"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 32,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "produits-de-la-plante-de-courge"
+        "subcategory_name": "produits-de-la-plante-de-courge"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 33,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "algues-et-derives"
+        "subcategory_name": "algues-et-derives"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 34,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "graines"
+        "subcategory_name": "graines"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 35,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "epices"
+        "subcategory_name": "epices"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 36,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "pousses"
+        "subcategory_name": "pousses"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 37,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "amidons"
+        "subcategory_name": "amidons"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 38,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "stevia-et-derives"
+        "subcategory_name": "stevia-et-derives"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 39,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "graines-de-tournesol-et-derives"
+        "subcategory_name": "graines-de-tournesol-et-derives"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 40,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "bouillons-de-legumes"
+        "subcategory_name": "bouillons-de-legumes"
     },
     {
         "id_category": 0,
+        "category_name": "aliments-d-origine-vegetale",
         "id_subcategory": 41,
-        "category": "aliments-d-origine-vegetale",
-        "subcategory": "matieres-grasses-vegetales"
+        "subcategory_name": "matieres-grasses-vegetales"
     },
     {
         "id_category": 1,
+        "category_name": "snacks",
         "id_subcategory": 42,
-        "category": "snacks",
-        "subcategory": "snacks-sales"
+        "subcategory_name": "popcorn"
     },
     {
         "id_category": 1,
+        "category_name": "snacks",
         "id_subcategory": 43,
-        "category": "snacks",
-        "subcategory": "snacks-sucres"
+        "subcategory_name": "snacks-sales"
     },
     {
-        "id_category": 2,
+        "id_category": 1,
+        "category_name": "snacks",
         "id_subcategory": 44,
-        "category": "boissons",
-        "subcategory": "boissons-alcoolisees"
+        "subcategory_name": "snacks-sucres"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 45,
-        "category": "boissons",
-        "subcategory": "boissons-edulcorees"
+        "subcategory_name": "boissons-alcoolisees"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 46,
-        "category": "boissons",
-        "subcategory": "boissons-gazeuses"
+        "subcategory_name": "boissons-edulcorees"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 47,
-        "category": "boissons",
-        "subcategory": "boissons-au-cafe"
+        "subcategory_name": "boissons-gazeuses"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 48,
-        "category": "boissons",
-        "subcategory": "boissons-lactees"
+        "subcategory_name": "boissons-au-cafe"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 49,
-        "category": "boissons",
-        "subcategory": "boissons-lyophilisees"
+        "subcategory_name": "boissons-lactees"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 50,
-        "category": "boissons",
-        "subcategory": "boissons-energisantes"
+        "subcategory_name": "boissons-lyophilisees"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 51,
-        "category": "boissons",
-        "subcategory": "fermented-drinks"
+        "subcategory_name": "boissons-energisantes"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 52,
-        "category": "boissons",
-        "subcategory": "sirops-aromatises"
+        "subcategory_name": "boissons-fermentees"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 53,
-        "category": "boissons",
-        "subcategory": "tisanes-infusees"
+        "subcategory_name": "sirops-aromatises"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 54,
-        "category": "boissons",
-        "subcategory": "boissons-chaudes"
+        "subcategory_name": "tisanes-infusees"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 55,
-        "category": "boissons",
-        "subcategory": "thes-glaces"
+        "subcategory_name": "boissons-chaudes"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 56,
-        "category": "boissons",
-        "subcategory": "boissons-instantanees"
+        "subcategory_name": "thes-glaces"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 57,
-        "category": "boissons",
-        "subcategory": "mixed-drinks"
+        "subcategory_name": "boissons-instantanees"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 58,
-        "category": "boissons",
-        "subcategory": "boissons-sans-alcool"
+        "subcategory_name": "mixed-drinks"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 59,
-        "category": "boissons",
-        "subcategory": "boissons-a-base-de-vegetaux"
+        "subcategory_name": "boissons-sans-alcool"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 60,
-        "category": "boissons",
-        "subcategory": "boissons-avec-sucre-ajoute"
+        "subcategory_name": "boissons-a-base-de-vegetaux"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 61,
-        "category": "boissons",
-        "subcategory": "boissons-au-the"
+        "subcategory_name": "boissons-avec-sucre-ajoute"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 62,
-        "category": "boissons",
-        "subcategory": "boissons-sans-sucre-ajoute"
+        "subcategory_name": "boissons-au-the"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 63,
-        "category": "boissons",
-        "subcategory": "eaux"
+        "subcategory_name": "boissons-sans-sucre-ajoute"
     },
     {
         "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 64,
-        "category": "boissons",
-        "subcategory": "citronnades"
+        "subcategory_name": "eaux"
     },
     {
-        "id_category": 3,
+        "id_category": 2,
+        "category_name": "boissons",
         "id_subcategory": 65,
-        "category": "snacks-sucres",
-        "subcategory": "snacks"
+        "subcategory_name": "citronnades"
     },
     {
         "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 66,
-        "category": "snacks-sucres",
-        "subcategory": "barres"
+        "subcategory_name": "snacks"
     },
     {
         "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 67,
-        "category": "snacks-sucres",
-        "subcategory": "biscuits"
+        "subcategory_name": "barres"
     },
     {
         "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 68,
-        "category": "snacks-sucres",
-        "subcategory": "chocolats"
+        "subcategory_name": "biscuits"
     },
     {
         "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 69,
-        "category": "snacks-sucres",
-        "subcategory": "confiseries"
+        "subcategory_name": "chocolats"
     },
     {
         "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 70,
-        "category": "snacks-sucres",
-        "subcategory": "popcorn"
+        "subcategory_name": "confiseries"
     },
     {
         "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 71,
-        "category": "snacks-sucres",
-        "subcategory": "beignets-sucres"
+        "subcategory_name": "popcorn-sucre"
     },
     {
         "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 72,
-        "category": "snacks-sucres",
-        "subcategory": "viennoiseries"
+        "subcategory_name": "beignets-sucres"
     },
     {
-        "id_category": 4,
+        "id_category": 3,
+        "category_name": "snacks-sucres",
         "id_subcategory": 73,
-        "category": "produits-laitiers",
-        "subcategory": "babeurres"
+        "subcategory_name": "viennoiseries"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 74,
-        "category": "produits-laitiers",
-        "subcategory": "laits-condenses"
+        "subcategory_name": "babeurres"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 75,
-        "category": "produits-laitiers",
-        "subcategory": "cremes"
+        "subcategory_name": "laits-condenses"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 76,
-        "category": "produits-laitiers",
-        "subcategory": "desserts-lactes"
+        "subcategory_name": "cremes"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 77,
-        "category": "produits-laitiers",
-        "subcategory": "boissons-lactees"
+        "subcategory_name": "desserts-lactes"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 78,
-        "category": "produits-laitiers",
-        "subcategory": "laits-concentres"
+        "subcategory_name": "boissons-lactees"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 79,
-        "category": "produits-laitiers",
-        "subcategory": "produits-laitiers-fermentes"
+        "subcategory_name": "laits-concentres"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 80,
-        "category": "produits-laitiers",
-        "subcategory": "milkfat"
+        "subcategory_name": "produits-laitiers-fermentes"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 81,
-        "category": "produits-laitiers",
-        "subcategory": "laits"
+        "subcategory_name": "milkfat"
     },
     {
         "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 82,
-        "category": "produits-laitiers",
-        "subcategory": "lactoserum-en-poudre"
+        "subcategory_name": "laits"
     },
     {
-        "id_category": 5,
+        "id_category": 4,
+        "category_name": "produits-laitiers",
         "id_subcategory": 83,
-        "category": "plats prepares",
-        "subcategory": "acras"
+        "subcategory_name": "lactoserum-en-poudre"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 84,
-        "category": "plats prepares",
-        "subcategory": "aligots"
+        "subcategory_name": "acras"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 85,
-        "category": "plats prepares",
-        "subcategory": "banh-bao"
+        "subcategory_name": "aligots"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 86,
-        "category": "plats prepares",
-        "subcategory": "poissons-panes"
+        "subcategory_name": "banh-bao-pain-brioche-farci"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 87,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-en-conserve"
+        "subcategory_name": "plats-prepares-en-conserve"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 88,
-        "category": "plats prepares",
-        "subcategory": "cassoulets"
+        "subcategory_name": "cassoulets"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 89,
-        "category": "plats prepares",
-        "subcategory": "acras-de-morue"
+        "subcategory_name": "plats-prepares-deshydrates"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 90,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-deshydrates"
+        "subcategory_name": "endives-au-jambon"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 91,
-        "category": "plats prepares",
-        "subcategory": "endives-au-jambon"
+        "subcategory_name": "plats-prepares-frais"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 92,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-frais"
+        "subcategory_name": "plats-prepares-surgeles"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 93,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-surgeles"
+        "subcategory_name": "gratins"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 94,
-        "category": "plats prepares",
-        "subcategory": "gratins"
+        "subcategory_name": "plats-prepares-a-faible-teneur-en-matieres-grasses"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 95,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-a-faible-teneur-en-matieres-grasses"
+        "subcategory_name": "substituts-de-repas"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 96,
-        "category": "plats prepares",
-        "subcategory": "substituts-de-repas"
+        "subcategory_name": "plats-prepares-au-poisson"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 97,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-au-poisson"
+        "subcategory_name": "plats-prepares-a-la-viande"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 98,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-a-la-viande"
+        "subcategory_name": "plats-prepares-a-rechauffer-au-micro-ondes"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 99,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-a-rechauffer-au-micro-ondes"
+        "subcategory_name": "nems"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 100,
-        "category": "plats prepares",
-        "subcategory": "nems"
+        "subcategory_name": "plats-a-base-de-pates"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 101,
-        "category": "plats prepares",
-        "subcategory": "plats-a-base-de-pates"
+        "subcategory_name": "pizzas-tartes-salees-et-quiches"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 102,
-        "category": "plats prepares",
-        "subcategory": "pizzas-tartes-salees-et-quiches"
+        "subcategory_name": "plats-prepares-d-origine-vegetale"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 103,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-d-origine-vegetale"
+        "subcategory_name": "plats-prepares-aux-noix-de-saint-jacques"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 104,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-aux-noix-de-saint-jacques"
+        "subcategory_name": "lentilles-preparees"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 105,
-        "category": "plats prepares",
-        "subcategory": "lentilles-preparees"
+        "subcategory_name": "salades-composees"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 106,
-        "category": "plats prepares",
-        "subcategory": "salades-composees"
+        "subcategory_name": "legumes-prepares"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 107,
-        "category": "plats prepares",
-        "subcategory": "legumes-prepares"
+        "subcategory_name": "plats-prepares-feuilletes"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 108,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-feuilletes"
+        "subcategory_name": "plats-a-base-de-quinoa"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 109,
-        "category": "plats prepares",
-        "subcategory": "plats-a-base-de-quinoa"
+        "subcategory_name": "plats-prepares-refrigeres"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 110,
-        "category": "plats prepares",
-        "subcategory": "plats-prepares-refrigeres"
+        "subcategory_name": "plats-a-base-de-riz"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 111,
-        "category": "plats prepares",
-        "subcategory": "plats-a-base-de-riz"
+        "subcategory_name": "samoussas"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 112,
-        "category": "plats prepares",
-        "subcategory": "samoussas"
+        "subcategory_name": "choucroutes"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 113,
-        "category": "plats prepares",
-        "subcategory": "choucroutes"
+        "subcategory_name": "plats-a-base-de-semoule"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 114,
-        "category": "plats prepares",
-        "subcategory": "plats-a-base-de-semoule"
+        "subcategory_name": "brochettes"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 115,
-        "category": "plats prepares",
-        "subcategory": "brochettes"
+        "subcategory_name": "soupes"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 116,
-        "category": "plats prepares",
-        "subcategory": "soupes"
+        "subcategory_name": "omelettes-de-pommes-de-terre"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 117,
-        "category": "plats prepares",
-        "subcategory": "omelettes-de-pommes-de-terre"
+        "subcategory_name": "rouleaux-de-printemps"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 118,
-        "category": "plats prepares",
-        "subcategory": "rouleaux-de-printemps"
+        "subcategory_name": "entrees"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 119,
-        "category": "plats prepares",
-        "subcategory": "entrees"
+        "subcategory_name": "feuilles-de-vigne-farcies"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 120,
-        "category": "plats prepares",
-        "subcategory": "feuilles-de-vigne-farcies"
+        "subcategory_name": "sushis-et-makis"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 121,
-        "category": "plats prepares",
-        "subcategory": "sushi-and-maki"
+        "subcategory_name": "taboules"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 122,
-        "category": "plats prepares",
-        "subcategory": "taboules"
+        "subcategory_name": "tajine"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 123,
-        "category": "plats prepares",
-        "subcategory": "tajine"
+        "subcategory_name": "truffades"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 124,
-        "category": "plats prepares",
-        "subcategory": "truffades"
+        "subcategory_name": "cereales-preparees"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 125,
-        "category": "plats prepares",
-        "subcategory": "cereales-preparees"
+        "subcategory_name": "crepes-au-fromage"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 126,
-        "category": "plats prepares",
-        "subcategory": "cordons-bleus"
+        "subcategory_name": "crepes-au-jambon"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 127,
-        "category": "plats prepares",
-        "subcategory": "crepes-au-fromage"
+        "subcategory_name": "fondues"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 128,
-        "category": "plats prepares",
-        "subcategory": "crepes-au-jambon"
+        "subcategory_name": "poelees"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 129,
-        "category": "plats prepares",
-        "subcategory": "fondues"
+        "subcategory_name": "purees"
     },
     {
         "id_category": 5,
+        "category_name": "plats prepares",
         "id_subcategory": 130,
-        "category": "plats prepares",
-        "subcategory": "poelees"
+        "subcategory_name": "quenelles"
     },
     {
-        "id_category": 5,
+        "id_category": 6,
+        "category_name": "boissons-sans-alcool",
         "id_subcategory": 131,
-        "category": "plats prepares",
-        "subcategory": "purees"
+        "subcategory_name": "boissons"
     },
     {
-        "id_category": 5,
+        "id_category": 6,
+        "category_name": "boissons-sans-alcool",
         "id_subcategory": 132,
-        "category": "plats prepares",
-        "subcategory": "quenelles"
+        "subcategory_name": "bieres-sans-alcool"
     },
     {
         "id_category": 6,
+        "category_name": "boissons-sans-alcool",
         "id_subcategory": 133,
-        "category": "boissons-sans-alcool",
-        "subcategory": "boissons"
+        "subcategory_name": "non-alcoholic-wheat-beers"
     },
     {
         "id_category": 6,
+        "category_name": "boissons-sans-alcool",
         "id_subcategory": 134,
-        "category": "boissons-sans-alcool",
-        "subcategory": "bieres-sans-alcool"
+        "subcategory_name": "vins-sans-alcool"
     },
     {
-        "id_category": 6,
+        "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 135,
-        "category": "boissons-sans-alcool",
-        "subcategory": "non-alcoholic-wheat-beers"
+        "subcategory_name": "boeuf"
     },
     {
-        "id_category": 6,
+        "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 136,
-        "category": "boissons-sans-alcool",
-        "subcategory": "vins-sans-alcool"
+        "subcategory_name": "viandes-sechees"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 137,
-        "category": "viandes",
-        "subcategory": "boeuf"
+        "subcategory_name": "dromadaire"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 138,
-        "category": "viandes",
-        "subcategory": "viandes-sechees"
+        "subcategory_name": "european-moose-meat"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 139,
-        "category": "viandes",
-        "subcategory": "dromadaire"
+        "subcategory_name": "viandes-fraiches"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 140,
-        "category": "viandes",
-        "subcategory": "european-moose-meat"
+        "subcategory_name": "grenouille"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 141,
-        "category": "viandes",
-        "subcategory": "viandes-fraiches"
+        "subcategory_name": "viandes-surgelees"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 142,
-        "category": "viandes",
-        "subcategory": "grenouille"
+        "subcategory_name": "insectes"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 143,
-        "category": "viandes",
-        "subcategory": "viandes-surgelees"
+        "subcategory_name": "viandes-d-agneau"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 144,
-        "category": "viandes",
-        "subcategory": "insectes"
+        "subcategory_name": "menus-viandes-pour-bebe"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 145,
-        "category": "viandes",
-        "subcategory": "viandes-d-agneau"
+        "subcategory_name": "preparations-de-viande"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 146,
-        "category": "viandes",
-        "subcategory": "menus-viandes-pour-bebe"
+        "subcategory_name": "autruche"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 147,
-        "category": "viandes",
-        "subcategory": "preparations-de-viande"
+        "subcategory_name": "porc"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 148,
-        "category": "viandes",
-        "subcategory": "autruche"
+        "subcategory_name": "volailles"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 149,
-        "category": "viandes",
-        "subcategory": "porc"
+        "subcategory_name": "charcuteries"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 150,
-        "category": "viandes",
-        "subcategory": "volailles"
+        "subcategory_name": "viande-de-lapin"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 151,
-        "category": "viandes",
-        "subcategory": "charcuteries"
+        "subcategory_name": "viande-fraiche-de-renne"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 152,
-        "category": "viandes",
-        "subcategory": "viande-de-lapin"
+        "subcategory_name": "roe-deer-meat"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 153,
-        "category": "viandes",
-        "subcategory": "viande-fraiche-de-renne"
+        "subcategory_name": "escargots"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 154,
-        "category": "viandes",
-        "subcategory": "roe-deer-meat"
+        "subcategory_name": "steaks"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 155,
-        "category": "viandes",
-        "subcategory": "escargots"
+        "subcategory_name": "viandes-de-veau"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 156,
-        "category": "viandes",
-        "subcategory": "steaks"
+        "subcategory_name": "wapiti-elk-meat"
     },
     {
         "id_category": 7,
+        "category_name": "viandes",
         "id_subcategory": 157,
-        "category": "viandes",
-        "subcategory": "viandes-de-veau"
+        "subcategory_name": "zebre"
     },
     {
-        "id_category": 7,
+        "id_category": 8,
+        "category_name": "aliments-a-base-de-fruits-et-legumes",
         "id_subcategory": 158,
-        "category": "viandes",
-        "subcategory": "wapiti-elk-meat"
+        "subcategory_name": "aliments-d-origine-vegetale"
     },
     {
-        "id_category": 7,
+        "id_category": 8,
+        "category_name": "aliments-a-base-de-fruits-et-legumes",
         "id_subcategory": 159,
-        "category": "viandes",
-        "subcategory": "zebre"
+        "subcategory_name": "aliments-et-boissons-a-base-de-vegetaux"
     },
     {
         "id_category": 8,
+        "category_name": "aliments-a-base-de-fruits-et-legumes",
         "id_subcategory": 160,
-        "category": "aliments-a-base-de-fruits-et-legumes",
-        "subcategory": "aliments-d-origine-vegetale"
+        "subcategory_name": "fruits-et-produits-derives"
     },
     {
         "id_category": 8,
+        "category_name": "aliments-a-base-de-fruits-et-legumes",
         "id_subcategory": 161,
-        "category": "aliments-a-base-de-fruits-et-legumes",
-        "subcategory": "aliments-et-boissons-a-base-de-vegetaux"
+        "subcategory_name": "soupes-de-legumes"
     },
     {
         "id_category": 8,
+        "category_name": "aliments-a-base-de-fruits-et-legumes",
         "id_subcategory": 162,
-        "category": "aliments-a-base-de-fruits-et-legumes",
-        "subcategory": "fruits-et-produits-derives"
+        "subcategory_name": "legumes-et-derives"
     },
     {
-        "id_category": 8,
+        "id_category": 9,
+        "category_name": "produits-fermentes",
         "id_subcategory": 163,
-        "category": "aliments-a-base-de-fruits-et-legumes",
-        "subcategory": "soupes-de-legumes"
+        "subcategory_name": "boissons-fermentees"
     },
     {
-        "id_category": 8,
+        "id_category": 9,
+        "category_name": "produits-fermentes",
         "id_subcategory": 164,
-        "category": "aliments-a-base-de-fruits-et-legumes",
-        "subcategory": "legumes-et-derives"
+        "subcategory_name": "produits-laitiers-fermentes"
     },
     {
-        "id_category": 9,
+        "id_category": 10,
+        "category_name": "produits-laitiers-fermentes",
         "id_subcategory": 165,
-        "category": "produits-fermentes",
-        "subcategory": "fermented-drinks"
+        "subcategory_name": "produits-fermentes"
     },
     {
-        "id_category": 9,
+        "id_category": 10,
+        "category_name": "produits-laitiers-fermentes",
         "id_subcategory": 166,
-        "category": "produits-fermentes",
-        "subcategory": "produits-laitiers-fermentes"
+        "subcategory_name": "produits-laitiers"
     },
     {
         "id_category": 10,
+        "category_name": "produits-laitiers-fermentes",
         "id_subcategory": 167,
-        "category": "produits-laitiers-fermentes",
-        "subcategory": "produits-fermentes"
+        "subcategory_name": "fromages"
     },
     {
         "id_category": 10,
+        "category_name": "produits-laitiers-fermentes",
         "id_subcategory": 168,
-        "category": "produits-laitiers-fermentes",
-        "subcategory": "produits-laitiers"
+        "subcategory_name": "boissons-lactees-fermentees"
     },
     {
         "id_category": 10,
+        "category_name": "produits-laitiers-fermentes",
         "id_subcategory": 169,
-        "category": "produits-laitiers-fermentes",
-        "subcategory": "fromages"
+        "subcategory_name": "cremes-fraiches"
     },
     {
         "id_category": 10,
+        "category_name": "produits-laitiers-fermentes",
         "id_subcategory": 170,
-        "category": "produits-laitiers-fermentes",
-        "subcategory": "boissons-lactees-fermentees"
+        "subcategory_name": "tvorog"
     },
     {
         "id_category": 10,
+        "category_name": "produits-laitiers-fermentes",
         "id_subcategory": 171,
-        "category": "produits-laitiers-fermentes",
-        "subcategory": "cremes-fraiches"
+        "subcategory_name": "yaourts"
     },
     {
-        "id_category": 10,
+        "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 172,
-        "category": "produits-laitiers-fermentes",
-        "subcategory": "tvorog"
+        "subcategory_name": "aliments-d-origine-vegetale"
     },
     {
-        "id_category": 10,
+        "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 173,
-        "category": "produits-laitiers-fermentes",
-        "subcategory": "yaourts"
+        "subcategory_name": "aliments-et-boissons-a-base-de-vegetaux"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 174,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "aliments-d-origine-vegetale"
+        "subcategory_name": "pains"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 175,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "aliments-et-boissons-a-base-de-vegetaux"
+        "subcategory_name": "pommes-de-terre-en-conserve"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 176,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "pains"
+        "subcategory_name": "cereales-et-derives"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 177,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "pommes-de-terre-en-conserve"
+        "subcategory_name": "pommes-de-terre-surgeles"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 178,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "cereales-et-derives"
+        "subcategory_name": "gnocchi"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 179,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "pommes-de-terre-surgeles"
+        "subcategory_name": "purees-en-flocons"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 180,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "gnocchi"
+        "subcategory_name": "purees-de-pommes-de-terre"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 181,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "purees-en-flocons"
+        "subcategory_name": "chips-de-pommes-de-terre"
     },
     {
         "id_category": 11,
+        "category_name": "cereales-et-pomme-de-terre",
         "id_subcategory": 182,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "purees-de-pommes-de-terre"
+        "subcategory_name": "pommes-de-terre"
     },
     {
-        "id_category": 11,
+        "id_category": 12,
+        "category_name": "produits-a-tartiner",
         "id_subcategory": 183,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "chips-de-pommes-de-terre"
+        "subcategory_name": "chutneys-d-oignons"
     },
     {
-        "id_category": 11,
+        "id_category": 12,
+        "category_name": "produits-a-tartiner",
         "id_subcategory": 184,
-        "category": "cereales-et-pomme-de-terre",
-        "subcategory": "pommes-de-terre"
+        "subcategory_name": "pates-a-tartiner-vegetales"
     },
     {
         "id_category": 12,
+        "category_name": "produits-a-tartiner",
         "id_subcategory": 185,
-        "category": "produits-a-tartiner",
-        "subcategory": "chutneys-d-oignons"
+        "subcategory_name": "produits-a-tartiner-sales"
     },
     {
         "id_category": 12,
+        "category_name": "produits-a-tartiner",
         "id_subcategory": 186,
-        "category": "produits-a-tartiner",
-        "subcategory": "pates-a-tartiner-vegetales"
+        "subcategory_name": "matieres-grasses-a-tartiner"
     },
     {
         "id_category": 12,
+        "category_name": "produits-a-tartiner",
         "id_subcategory": 187,
-        "category": "produits-a-tartiner",
-        "subcategory": "produits-a-tartiner-sales"
+        "subcategory_name": "produits-a-tartiner-sucres"
     },
     {
         "id_category": 12,
+        "category_name": "produits-a-tartiner",
         "id_subcategory": 188,
-        "category": "produits-a-tartiner",
-        "subcategory": "matieres-grasses-a-tartiner"
+        "subcategory_name": "condiments-a-tartiner"
     },
     {
-        "id_category": 12,
+        "id_category": 13,
+        "category_name": "biscuits-et-gateaux",
         "id_subcategory": 189,
-        "category": "produits-a-tartiner",
-        "subcategory": "produits-a-tartiner-sucres"
+        "subcategory_name": "biscuits"
     },
     {
-        "id_category": 12,
+        "id_category": 13,
+        "category_name": "biscuits-et-gateaux",
         "id_subcategory": 190,
-        "category": "produits-a-tartiner",
-        "subcategory": "condiments-a-tartiner"
+        "subcategory_name": "gateaux"
     },
     {
         "id_category": 13,
+        "category_name": "biscuits-et-gateaux",
         "id_subcategory": 191,
-        "category": "biscuits-et-gateaux",
-        "subcategory": "biscuits"
+        "subcategory_name": "pains-d-epices"
     },
     {
         "id_category": 13,
+        "category_name": "biscuits-et-gateaux",
         "id_subcategory": 192,
-        "category": "biscuits-et-gateaux",
-        "subcategory": "gateaux"
+        "subcategory_name": "patisseries"
     },
     {
-        "id_category": 13,
+        "id_category": 14,
+        "category_name": "petits-dejeuners",
         "id_subcategory": 193,
-        "category": "biscuits-et-gateaux",
-        "subcategory": "pains-d-epices"
+        "subcategory_name": "cereales-pour-petit-dejeuner"
     },
     {
-        "id_category": 13,
+        "id_category": 14,
+        "category_name": "petits-dejeuners",
         "id_subcategory": 194,
-        "category": "biscuits-et-gateaux",
-        "subcategory": "patisseries"
+        "subcategory_name": "chocolats-en-poudre"
     },
     {
         "id_category": 14,
+        "category_name": "petits-dejeuners",
         "id_subcategory": 195,
-        "category": "petits-dejeuners",
-        "subcategory": "cereales-pour-petit-dejeuner"
+        "subcategory_name": "produits-a-tartiner-sucres"
     },
     {
-        "id_category": 14,
+        "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 196,
-        "category": "petits-dejeuners",
-        "subcategory": "chocolats-en-poudre"
+        "subcategory_name": "produits-laitiers-fermentes"
     },
     {
-        "id_category": 14,
+        "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 197,
-        "category": "petits-dejeuners",
-        "subcategory": "produits-a-tartiner-sucres"
+        "subcategory_name": "produits-fermentes"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 198,
-        "category": "fromages",
-        "subcategory": "produits-laitiers-fermentes"
+        "subcategory_name": "produits-laitiers"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 199,
-        "category": "fromages",
-        "subcategory": "produits-fermentes"
+        "subcategory_name": "fromages-d-abbaye"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 200,
-        "category": "fromages",
-        "subcategory": "produits-laitiers"
+        "subcategory_name": "fromages-artisanaux"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 201,
-        "category": "fromages",
-        "subcategory": "fromages-d-abbaye"
+        "subcategory_name": "fromages-a-pate-persillee"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 202,
-        "category": "fromages",
-        "subcategory": "fromages-artisanaux"
+        "subcategory_name": "fromages-saumures"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 203,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-persillee"
+        "subcategory_name": "fromages-au-lait-de-bufflonne"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 204,
-        "category": "fromages",
-        "subcategory": "fromages-saumures"
+        "subcategory_name": "fromages-en-conserve"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 205,
-        "category": "fromages",
-        "subcategory": "fromages-au-lait-de-bufflonne"
+        "subcategory_name": "fromages-a-tartiner"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 206,
-        "category": "fromages",
-        "subcategory": "fromages-en-conserve"
+        "subcategory_name": "fromages-de-suisse"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 207,
-        "category": "fromages",
-        "subcategory": "fromages-a-tartiner"
+        "subcategory_name": "fromages-du-royaume-uni"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 208,
-        "category": "fromages",
-        "subcategory": "fromages-de-suisse"
+        "subcategory_name": "fromages-des-pays-bas"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 209,
-        "category": "fromages",
-        "subcategory": "fromages-du-royaume-uni"
+        "subcategory_name": "fromages-aux-noix"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 210,
-        "category": "fromages",
-        "subcategory": "fromages-des-pays-bas"
+        "subcategory_name": "fromages-a-pate-pressee-cuite"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 211,
-        "category": "fromages",
-        "subcategory": "fromages-aux-noix"
+        "subcategory_name": "fromages-de-vache"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 212,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-pressee-cuite"
+        "subcategory_name": "fromages-a-pate-fraiche"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 213,
-        "category": "fromages",
-        "subcategory": "fromages-de-vache"
+        "subcategory_name": "fromages-double-creme"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 214,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-fraiche"
+        "subcategory_name": "fromages-de-france"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 215,
-        "category": "fromages",
-        "subcategory": "fromages-double-creme"
+        "subcategory_name": "fromages-de-chevre"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 216,
-        "category": "fromages",
-        "subcategory": "fromages-de-france"
+        "subcategory_name": "fromages-rapes"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 217,
-        "category": "fromages",
-        "subcategory": "fromages-de-chevre"
+        "subcategory_name": "fromages-de-grece"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 218,
-        "category": "fromages",
-        "subcategory": "fromages-rapes"
+        "subcategory_name": "fromages-a-pate-pressee-demi-cuite"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 219,
-        "category": "fromages",
-        "subcategory": "fromages-de-grece"
+        "subcategory_name": "fromages-industriels"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 220,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-pressee-demi-cuite"
+        "subcategory_name": "fromages-italiens"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 221,
-        "category": "fromages",
-        "subcategory": "fromages-industriels"
+        "subcategory_name": "fromages-labellises"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 222,
-        "category": "fromages",
-        "subcategory": "fromages-italiens"
+        "subcategory_name": "fromages-lithuaniens"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 223,
-        "category": "fromages",
-        "subcategory": "fromages-labellises"
+        "subcategory_name": "fromages-fondus"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 224,
-        "category": "fromages",
-        "subcategory": "fromages-lithuaniens"
+        "subcategory_name": "fromages-mexicains"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 225,
-        "category": "fromages",
-        "subcategory": "fromages-fondus"
+        "subcategory_name": "fromages-de-montagne"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 226,
-        "category": "fromages",
-        "subcategory": "fromages-mexicains"
+        "subcategory_name": "fromages-pasteurises"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 227,
-        "category": "fromages",
-        "subcategory": "fromages-de-montagne"
+        "subcategory_name": "fromages-polonais"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 228,
-        "category": "fromages",
-        "subcategory": "fromages-pasteurises"
+        "subcategory_name": "fromages-portugais"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 229,
-        "category": "fromages",
-        "subcategory": "fromages-polonais"
+        "subcategory_name": "fromages-a-pate-fondue"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 230,
-        "category": "fromages",
-        "subcategory": "fromages-portugais"
+        "subcategory_name": "fromages-de-brebis"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 231,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-fondue"
+        "subcategory_name": "fromages-en-tranches"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 232,
-        "category": "fromages",
-        "subcategory": "fromages-de-brebis"
+        "subcategory_name": "fromages-de-slovaquie"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 233,
-        "category": "fromages",
-        "subcategory": "fromages-en-tranches"
+        "subcategory_name": "fromages-slovenes"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 234,
-        "category": "fromages",
-        "subcategory": "fromages-de-slovaquie"
+        "subcategory_name": "fromages-fumes"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 235,
-        "category": "fromages",
-        "subcategory": "fromages-slovenes"
+        "subcategory_name": "fromages-a-pate-molle-a-croute-naturelle"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 236,
-        "category": "fromages",
-        "subcategory": "fromages-fumes"
+        "subcategory_name": "fromages-a-pate-molle-a-croute-fleurie"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 237,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-molle-a-croute-naturelle"
+        "subcategory_name": "fromages-a-pate-molle-a-croute-lavee"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 238,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-molle-a-croute-fleurie"
+        "subcategory_name": "fromages-espagnols"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 239,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-molle-a-croute-lavee"
+        "subcategory_name": "fromages-a-pate-filee"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 240,
-        "category": "fromages",
-        "subcategory": "fromages-espagnols"
+        "subcategory_name": "string-cheeses"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 241,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-filee"
+        "subcategory_name": "fromages-suedois"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 242,
-        "category": "fromages",
-        "subcategory": "string-cheeses"
+        "subcategory_name": "fromages-au-lait-thermise"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 243,
-        "category": "fromages",
-        "subcategory": "fromages-suedois"
+        "subcategory_name": "fromages-a-pate-pressee-non-cuite"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 244,
-        "category": "fromages",
-        "subcategory": "fromages-au-lait-thermise"
+        "subcategory_name": "fromages-au-lait-cru"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 245,
-        "category": "fromages",
-        "subcategory": "fromages-a-pate-pressee-non-cuite"
+        "subcategory_name": "fromages-ail-et-fines-herbes"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 246,
-        "category": "fromages",
-        "subcategory": "fromages-au-lait-cru"
+        "subcategory_name": "fromages-pour-enfants"
     },
     {
         "id_category": 15,
+        "category_name": "fromages",
         "id_subcategory": 247,
-        "category": "fromages",
-        "subcategory": "fromages-ail-et-fines-herbes"
+        "subcategory_name": "raclettes"
     },
     {
-        "id_category": 15,
+        "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 248,
-        "category": "fromages",
-        "subcategory": "fromages-pour-enfants"
+        "subcategory_name": "viandes"
     },
     {
-        "id_category": 15,
+        "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 249,
-        "category": "fromages",
-        "subcategory": "raclettes"
+        "subcategory_name": "terrines-de-bison"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 250,
-        "category": "charcuteries",
-        "subcategory": "viandes"
+        "subcategory_name": "terrines-de-boudin"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 251,
-        "category": "charcuteries",
-        "subcategory": "coppa"
+        "subcategory_name": "terrines-de-sanglier"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 252,
-        "category": "charcuteries",
-        "subcategory": "jambons"
+        "subcategory_name": "coppa"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 253,
-        "category": "charcuteries",
-        "subcategory": "charcuteries-a-teneur-reduite-en-sel"
+        "subcategory_name": "terrines-de-poulet"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 254,
-        "category": "charcuteries",
-        "subcategory": "rillettes"
+        "subcategory_name": "terrines-de-campagne"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 255,
-        "category": "charcuteries",
-        "subcategory": "saucisses"
+        "subcategory_name": "cut"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 256,
-        "category": "charcuteries",
-        "subcategory": "mousses-salees"
+        "subcategory_name": "terrines-de-canard"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 257,
-        "category": "charcuteries",
-        "subcategory": "andouilles"
+        "subcategory_name": "jambons"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 258,
-        "category": "charcuteries",
-        "subcategory": "boudins"
+        "subcategory_name": "terrines-de-foie"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 259,
-        "category": "charcuteries",
-        "subcategory": "charcuteries-a-cuire"
+        "subcategory_name": "terrines-de-faisan"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 260,
-        "category": "charcuteries",
-        "subcategory": "charcuteries-cuites"
+        "subcategory_name": "terrines-de-volailles"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 261,
-        "category": "charcuteries",
-        "subcategory": "charcuteries-diverses"
+        "subcategory_name": "charcuteries-a-teneur-reduite-en-sel"
     },
     {
         "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 262,
-        "category": "charcuteries",
-        "subcategory": "saucissons"
+        "subcategory_name": "terrines-de-lapin"
     },
     {
-        "id_category": 17,
+        "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 263,
-        "category": "epicerie",
-        "subcategory": "bouillons"
+        "subcategory_name": "rillettes"
     },
     {
-        "id_category": 17,
+        "id_category": 16,
+        "category_name": "charcuteries",
         "id_subcategory": 264,
-        "category": "epicerie",
-        "subcategory": "condiments"
+        "subcategory_name": "saucisses"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 265,
+        "subcategory_name": "mousses-salees"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 266,
+        "subcategory_name": "andouilles"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 267,
+        "subcategory_name": "boudins"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 268,
+        "subcategory_name": "charcuteries-a-cuire"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 269,
+        "subcategory_name": "charcuteries-cuites"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 270,
+        "subcategory_name": "charcuteries-diverses"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 271,
+        "subcategory_name": "saucissons"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 272,
+        "subcategory_name": "terrines-de-cerf"
+    },
+    {
+        "id_category": 16,
+        "category_name": "charcuteries",
+        "id_subcategory": 273,
+        "subcategory_name": "terrines-de-chevreuil"
     },
     {
         "id_category": 17,
-        "id_subcategory": 265,
-        "category": "epicerie",
-        "subcategory": "sauces"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 266,
-        "category": "desserts",
-        "subcategory": "foret-noires"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 267,
-        "category": "desserts",
-        "subcategory": "charlottes"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 268,
-        "category": "desserts",
-        "subcategory": "desserts-au-chocolat"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 269,
-        "category": "desserts",
-        "subcategory": "clafoutis"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 270,
-        "category": "desserts",
-        "subcategory": "desserts-au-cafe"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 271,
-        "category": "desserts",
-        "subcategory": "compotes"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 272,
-        "category": "desserts",
-        "subcategory": "crumbles"
-    },
-    {
-        "id_category": 18,
-        "id_subcategory": 273,
-        "category": "desserts",
-        "subcategory": "desserts-lactes"
-    },
-    {
-        "id_category": 18,
+        "category_name": "epicerie",
         "id_subcategory": 274,
-        "category": "desserts",
-        "subcategory": "desserts-glaces"
+        "subcategory_name": "bouillons"
     },
     {
-        "id_category": 18,
+        "id_category": 17,
+        "category_name": "epicerie",
         "id_subcategory": 275,
-        "category": "desserts",
-        "subcategory": "fruits-au-sirop"
+        "subcategory_name": "condiments"
     },
     {
-        "id_category": 18,
+        "id_category": 17,
+        "category_name": "epicerie",
         "id_subcategory": 276,
-        "category": "desserts",
-        "subcategory": "liegeois"
+        "subcategory_name": "sauces"
     },
     {
         "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 277,
-        "category": "desserts",
-        "subcategory": "macarons"
+        "subcategory_name": "foret-noires"
     },
     {
         "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 278,
-        "category": "desserts",
-        "subcategory": "desserts-vegetaliens"
+        "subcategory_name": "charlottes"
     },
     {
         "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 279,
-        "category": "desserts",
-        "subcategory": "puddings"
+        "subcategory_name": "desserts-au-chocolat"
     },
     {
         "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 280,
-        "category": "desserts",
-        "subcategory": "mousses-sucrees"
+        "subcategory_name": "clafoutis"
     },
     {
         "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 281,
-        "category": "desserts",
-        "subcategory": "vacherins"
+        "subcategory_name": "desserts-au-cafe"
     },
     {
         "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 282,
-        "category": "desserts",
-        "subcategory": "bavarois-aux-fruits"
+        "subcategory_name": "compotes"
     },
     {
         "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 283,
-        "category": "desserts",
-        "subcategory": "buches-patissieres"
+        "subcategory_name": "crumbles"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 284,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "aliments-a-base-de-fruits-et-de-legumes"
+        "subcategory_name": "desserts-lactes"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 285,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "aliments-d-origine-vegetale"
+        "subcategory_name": "desserts-glaces"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 286,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "aliments-et-boissons-a-base-de-vegetaux"
+        "subcategory_name": "fruits-au-sirop"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 287,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "fruits-confits"
+        "subcategory_name": "liegeois"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 288,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "fruits-en-conserve"
+        "subcategory_name": "macarons"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 289,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "compotes"
+        "subcategory_name": "desserts-vegetaliens"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 290,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "fruits-secs"
+        "subcategory_name": "puddings"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 291,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "fruits-surgeles"
+        "subcategory_name": "mousses-sucrees"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 292,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "chutneys-de-fruit"
+        "subcategory_name": "vacherins"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 293,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "confitures-de-fruits"
+        "subcategory_name": "bavarois-aux-fruits"
     },
     {
-        "id_category": 19,
+        "id_category": 18,
+        "category_name": "desserts",
         "id_subcategory": 294,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "pates-de-fruits"
+        "subcategory_name": "buches-patissieres"
     },
     {
         "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
         "id_subcategory": 295,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "salades-de-fruits"
+        "subcategory_name": "aliments-a-base-de-fruits-et-de-legumes"
     },
     {
         "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
         "id_subcategory": 296,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "fruits"
+        "subcategory_name": "aliments-d-origine-vegetale"
     },
     {
         "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
         "id_subcategory": 297,
-        "category": "fruits-et-produits-derives",
-        "subcategory": "coulis-de-fruits"
+        "subcategory_name": "aliments-et-boissons-a-base-de-vegetaux"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 298,
+        "subcategory_name": "fruits-confits"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 299,
+        "subcategory_name": "fruits-en-conserve"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 300,
+        "subcategory_name": "compotes"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 301,
+        "subcategory_name": "fruits-secs"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 302,
+        "subcategory_name": "fruits-surgeles"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 303,
+        "subcategory_name": "chutneys-de-fruit"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 304,
+        "subcategory_name": "confitures-de-fruits"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 305,
+        "subcategory_name": "pates-de-fruits"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 306,
+        "subcategory_name": "salades-de-fruits"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 307,
+        "subcategory_name": "fruits"
+    },
+    {
+        "id_category": 19,
+        "category_name": "fruits-et-produits-derives",
+        "id_subcategory": 308,
+        "subcategory_name": "coulis-de-fruits"
     }
 ]

@@ -29,15 +29,18 @@ def clean_products():
     cat = []
     for i, elt in enumerate(data):
         if is_duplicate(elt['product_name'], products_approved) is not True:
+            # if the current product is not a duplicate
             cleaned_products.append({
-                'id_product': elt['id_product'],
                 'product_name': elt['product_name'],
                 'nutriscore': elt['nutriscore'],
                 'image_url': elt['image_url'],
-                'id_category': elt['id_category'] ,
-                'id_subcategory': elt['id_subcategory']
+                'id_category': elt['id_category'],
+                'category_name': elt['category_name'],
+                'id_subcategory': elt['id_subcategory'],
+                'subcategory': elt['subcategory_name']
                 })
             j += 1
+            # for the number of categories (will be used later):
             if elt['id_subcategory'] not in cat:
                 cat.append(elt['id_subcategory'])
 
