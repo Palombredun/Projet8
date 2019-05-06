@@ -25,4 +25,5 @@ urlpatterns = [
     re_path(r'^Inscription/', include('signup.urls')),
     path(r'Connexion/', LoginView.as_view(template_name='users/login.html'), name='login'),
     re_path(r'^Mon-Compte/', include('profiles.urls')),
+    re_path(r'^Recherche/<str:str>/', include('ersatz.urls')),
 ]
