@@ -163,6 +163,9 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   color: #e8a75d;
+
+  height: 25px;
+  width: auto;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
@@ -233,7 +236,7 @@ header.masthead {
   background-position: center center;
   background-size: cover;
 }
-*/
+
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -271,7 +274,12 @@ header.masthead p {
     font-size: 4rem;
   }
 }
+*/
 
+.svg-icons {
+  height: 10px;
+  width: 10px;
+}
 
 .text-primary {
   color: #E8A75d !important;

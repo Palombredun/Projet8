@@ -1,0 +1,16 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+{% block content %}
+
+{% if products %}
+    <ul>
+    	{% for product in products %}
+    	<li> {{ product.product_name }} </li>
+    	{% endfor %}
+    </ul>
+{% else %}
+	<p>Aucun produit n'a été trouvé.</p>
+{% endif %}
+
+{% endblock %}

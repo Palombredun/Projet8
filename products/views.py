@@ -1,10 +1,6 @@
-from django.shortcuts import render, reverse_lazy
-fromd django.views import generic
+from django.shortcuts import render
 
-from .forms import RegistrationForm
+from products.models import Product
 
-
-class signup(generic.CreateView):
-    form_class = RegistrationForm
-    success_url = reverse_lazy('home')
-    template_name = 'signup.html'
+def product(request):
+	pass
