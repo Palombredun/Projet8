@@ -1,5 +1,10 @@
 from django.shortcuts import render
+from django.contrib.auth.decorators import login_required
 
-# Create your views here.
+from .models import UserProfile
+
+
+@login_required
 def profile(request):
-	pass
+	current_user = {'user': request.user}
+	return render(request, 'profiles/profile.html', current_user)

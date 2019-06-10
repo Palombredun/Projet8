@@ -57,45 +57,6 @@ section {
   width: 50px;
 }
 
-#connect-logo {
-  width: 25px;
-  height: 25px;
-  color: #345a61;
-}
-#connect-logo:hover {
-  color: #86ebe6;
-}
-
-#favorites-logo {
-  width: 25px;
-  height: 25px;
-  color: #345a61;
-}
-
-#favorites-logo:hover {
-  color: #86ebe6;
-}
-
-#deconnexion-logo {
-  width: 25px;
-  height: 25px;
-  color: #345a61;
-}
-
-#deconnexion-logo {
-  color: #86ebe6;
-}
-
-#profile-logo {
-  width: 25px;
-  height: 25px;
-  color: #345a61;
-}
-
-#profile-logo {
-  color: #86ebe6;
-}
-
 .bg-primary {
   background-color: #e8a75d !important;
 }
@@ -276,11 +237,35 @@ header.masthead p {
 }
 */
 
-.svg-icons {
-  height: 10px;
-  width: 10px;
-}
-
 .text-primary {
   color: #E8A75d !important;
+}
+
+
+/* button customization */
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 300px;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+.btn-primary {
+  background-color: #c45525;
+  border-color: #c45525;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  color: #fff;
+  background-color: #ee4b28 !important;
+}
+
+.btn-primary:active, .btn-primary:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }

@@ -1,0 +1,26 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+  <head>
+	{% block head %}
+	<title>Profil</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'users/login.css' %}">
+	{% endblock %}
+</head>
+
+{% block content %}
+<div class="container">
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<p>{{ user.username }}</p>
+	<p>{{ user.email }}
+</div>
+{% endblock %}

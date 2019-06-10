@@ -14,25 +14,23 @@
 
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                    {% if user.authenticated %}
-                   <li class="nav-item">
-                        <a class="svg-icons" href="{% url 'profiles:profile' %}">
-                            {% include 'core/img/user.svg' %}
-                        </a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="svg-icons" href="{% url 'favourites:favourites' %}">
-                            {% include 'core/img/carrot.svg' %}
-                        </a>
-                    </li>
-                    
-                    <li class="nav-item">
-                        <a class="svg-icons" href="{% url 'users:logout' %}">
-                            {% include 'core/img/sign-out.svg' %}
-                        </a>
-                    </li>
-
+                    {% if user.is_authenticated %}
+                        <li class="nav-item">
+                            <a class="svg-icons" href="{% url 'profile' %}">
+                                {% include 'core/img/user.svg' %}
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="svg-icons" href="#">
+                                {% include 'core/img/carrot.svg' %}
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="svg-icons" href="{% url 'logout' %}">
+                                {% include 'core/img/sign-out.svg' %}
+                            </a>
+                        </li>
+    
                     {% else %}
                     <li class="nav-item">
                         <a class="svg-icons" href="{% url 'login' %}">

@@ -23,7 +23,6 @@ urlpatterns = [
 
     # core
     path('', include('core.urls')),
-    path('Mentions-Legales/', include('core.urls')),
 
     # user
     path('utilisateur/', include('signup.urls')),
