@@ -30,7 +30,7 @@ urlpatterns = [
     path('utilisateur/', include('profiles.urls')),
     path('utilisateur/', include('favourites.urls')),
     # search products
-    path('Recherche/', include('ersatz.urls')),
+    path('', include('ersatz.urls')),
     # product page
     path('Produits/', include('products.urls')),
     
