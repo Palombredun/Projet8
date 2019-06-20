@@ -1,5 +1,9 @@
 from django.shortcuts import render
+from django.contrib.auth.decorators import login_required
 
-# Create your views here.
+#from profiles.models import UserProfile
+
+@login_required
 def favourites(request):
-	pass
+	current_user = {'user': request.user}
+	return render(request, 'favourites/favourites.html', current_user)

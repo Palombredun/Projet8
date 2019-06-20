@@ -31,7 +31,5 @@ urlpatterns = [
     path('utilisateur/', include('favourites.urls')),
     # search products
     path('', include('ersatz.urls')),
-    # product page
-    path('Produits/', include('products.urls')),
     
 ]
