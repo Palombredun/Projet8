@@ -11,7 +11,6 @@ html {
 }
 
 body {
-  /*font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;*/
   font-family: "Scope One", 'Helvetica Neue', Arial,sans-serif;
 }
 
@@ -44,17 +43,6 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
-.bg-primary {
-  background-color: #c45525 !important;
-}
-
-.bg-dark {
-  background-color: #212529 !important;
-}
-
-.text-faded {
-  color: #86ebe6;
-}
 
 section {
   padding: 8rem 0;
@@ -64,27 +52,34 @@ section {
   margin-top: 0;
 }
 
-#about {
-  color: #e8a75d;
-}
-
 #logo_pur_beurre {
   height: 50px;
   width: 50px;
 }
 
+.bg-primary {
+  background-color: #e8a75d !important;
+}
 
-#logo_colette {
-  height: 250px;
+.text-faded {
+  color: #86ebe6;
+}
+
+#logo-remy {
+  width: 75px;
+  height: 150px;
+}
+
+#logo-colette {
   width: 100px;
-}
-
-#logo_remy {
   height: 250px;
-  width: 115px;
 }
 
-#hr_about {
+#about {
+  color: #345a61;
+}
+
+#hr-about: {
   border-color: #e8a75d;
 }
 
@@ -92,12 +87,16 @@ section {
   color: #de9440;
 }
 
-#hr_contact {
+#hr-contact {
   border-color: #de9440;
 }
 
 #footer {
   background-color: #345a61;
+  /*
+  position: absolute;
+  bottom: 0;
+  width: 100%; */
 }
 
 #mainNav {
@@ -125,6 +124,9 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   color: #e8a75d;
+
+  height: 25px;
+  width: auto;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
@@ -145,13 +147,16 @@ section {
 
 
 @media (min-width: 992px) {
-  /*
+  #mainNav {
+    border-color: transparent;
+    background-color: transparent;
+  }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
     color: #fff;
-  }*/
+  }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 1rem;
   }
@@ -180,15 +185,15 @@ section {
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
     color: #c45525;
-  }
-}*/
+  }*/
+}
 
 
-
+/*
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/header.jpg");
+  background-image: url("img/header_flou.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -230,11 +235,14 @@ header.masthead p {
     font-size: 4rem;
   }
 }
+*/
 
 .text-primary {
-  Acolor: #E8A75d !important;
+  color: #E8A75d !important;
 }
 
+
+/* button customization */
 .btn {
   font-weight: 700;
   text-transform: uppercase;
