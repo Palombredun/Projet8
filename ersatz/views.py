@@ -31,7 +31,7 @@ def search(request):
             product_to_replace = foo[-1][0]
             
             simili_products = Product.objects.filter(
-                id_category=product_to_replace.id_category
+                category=product_to_replace.category
                 ).order_by('nutriscore')
             
             ersatz = []

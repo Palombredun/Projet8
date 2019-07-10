@@ -10,8 +10,8 @@ gunicorn = "*"
 django-heroku = "*"
 selenium = "*"
 django = "*"
-beautifulsoup4 = "*"
 requests = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.6"
