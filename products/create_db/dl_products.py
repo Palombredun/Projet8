@@ -42,7 +42,8 @@ def download_products():
             for _ in req['products']:
                 if 'product_name' in req['products'][j].keys() and \
                     'image_front_url' in req['products'][j].keys() and \
-                    'nutrition_grade_fr' in req['products'][j].keys():
+                    'nutrition_grade_fr' in req['products'][j].keys() and \
+                    'url' in req['products'][j].keys():
 
                     try:
                         purchase_place = req['products'][j]['purchase_places']
@@ -86,6 +87,7 @@ def download_products():
                         'product_name': req['products'][j]['product_name'],
                         'nutriscore': req['products'][j]['nutrition_grade_fr'],
                         'image_url': req['products'][j]['image_front_url'],
+                        'product_url': req['products'][j]['url'],
                         'category_name': category,
                         'purchase_place': purchase_place,
                         'energy_100g': energy_100g,

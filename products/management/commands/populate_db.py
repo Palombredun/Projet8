@@ -42,6 +42,7 @@ class Command(BaseCommand):
                         product_name=elt['product_name'],
                         nutriscore=elt['nutriscore'],
                         image_url=elt['image_url'],
+                        product_url = elt['product_url'],
                         category=current_category,
                         purchase_places=elt['purchase_place'],
                         energy_100g=elt['energy_100g'],
