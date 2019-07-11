@@ -4,8 +4,11 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+
 	height: 200px;
 	width: auto;
+	max-width: 100px;
+
 	border-radius: 5%;
 }
 
